@@ -94,7 +94,7 @@ fbxloader.load(
             // Animaciones
             function animate() {
                if (MyObj){
-                MyObj.rotation.y +=0.05;
+                MyObj.rotation.y +=0.02;
                 //MyObj.rotation.x +=0.02;
                }
                 //cube.rotation.y += 0.1;
