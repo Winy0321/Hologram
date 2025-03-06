@@ -93,10 +93,10 @@ fbxloader.load(
 )
             // Animaciones
             function animate() {
-               if (MyObj){
+               //if (MyObj){
                 //MyObj.rotation.y +=0.01;
                 //MyObj.rotation.x +=0.02;
-               }
+               //}
                 //cube.rotation.y += 0.1;
                 effect.render( scene, camera );
  
